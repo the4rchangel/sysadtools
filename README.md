@@ -1,2 +1,2 @@
 # sysadtools
-Random Scripts and Tools I use for work
+Random scripts and tools I use for work
